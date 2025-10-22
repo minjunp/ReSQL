@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use ReSQL in your research, please cite it as below."
+title: "ReSQL: Self-Improving Text-to-SQL Generation via Retrieval-augmented Error Reasoning"
+type: software
+authors:
+  - family-names: "Your Last Name"
+    given-names: "Your First Name"
+    # email: your.email@institution.edu
+    # affiliation: "Your Institution"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+# repository-code: "https://github.com/yourusername/ReSQL"
+# url: "https://github.com/yourusername/ReSQL"
+keywords:
+  - text-to-sql
+  - error reasoning
+  - retrieval-augmented generation
+  - natural language processing
+  - large language models
+  - BIRD
+  - SPIDER
+license: MIT
+# version: 1.0.0
+# date-released: 2025-XX-XX
+preferred-citation:
+  type: conference-paper
+  title: "ReSQL: Self-Improving Text-to-SQL Generation via Retrieval-augmented Error Reasoning"
+  authors:
+    - family-names: "Your Last Name"
+      given-names: "Your First Name"
+  collection-title: "Proceedings of the 2025 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2025)"
+  year: 2025
+  # month: XX
+  # start: XX
+  # end: XX
+  conference:
+    name: "LREC-COLING 2025"

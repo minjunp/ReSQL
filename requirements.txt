@@ -1,0 +1,23 @@
+# ReSQL Framework Requirements
+# Python 3.8+
+
+# Core Dependencies
+torch>=2.0.0
+transformers>=4.35.0
+huggingface-hub>=0.19.0
+
+# Data Processing
+tqdm>=4.65.0
+
+# Utilities
+sqlite3; python_version >= '3.0'  # Usually included with Python
+
+# Optional: For specific model support
+accelerate>=0.24.0  # For efficient multi-GPU and large model loading
+bitsandbytes>=0.41.0  # For quantization (optional)
+sentencepiece>=0.1.99  # For some tokenizers
+protobuf>=3.20.0  # For some model formats
+
+# Development (optional)
+jupyter>=1.0.0  # For notebook examples
+ipython>=8.0.0  # Enhanced Python shell
