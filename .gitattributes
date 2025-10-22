@@ -1,0 +1,2 @@
+generated_outputs/** filter=lfs diff=lfs merge=lfs -text
+rawdata/** filter=lfs diff=lfs merge=lfs -text
