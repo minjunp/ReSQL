@@ -290,12 +290,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - SPIDER Dataset: [https://yale-lily.github.io/spider](https://yale-lily.github.io/spider)
 - Built with Hugging Face Transformers
 
-## Contact
-
-For questions or issues, please:
-- Open an issue on GitHub
-- Contact: [your-email@example.com]
-
 ---
 
 **Note**: This repository is associated with our LREC 2026 submission. Pre-generated datasets are ready for immediate use in your Text-to-SQL research.
