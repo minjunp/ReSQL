@@ -1,10 +1,9 @@
 # ReSQL: Self-Improving Text-to-SQL Generation via Retrieval-augmented Error Reasoning
 
-[![Paper](https://img.shields.io/badge/Paper-LREC--COLING%202025-blue)](https://arxiv.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-green)](#datasets)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Official implementation of **ReSQL: Self-Improving Text-to-SQL Generation via Retrieval-augmented Error Reasoning**, submitted to LREC-COLING 2025.
+Official implementation of **ReSQL: Self-Improving Text-to-SQL Generation via Retrieval-augmented Error Reasoning**, submitted to LREC 2026.
 
 ## Overview
 
@@ -281,19 +280,6 @@ ReSQL categorizes SQL generation errors into three main types:
 - **Batch Processing**: The script processes datasets incrementally and saves progress
 - **Resume Capability**: If interrupted, the script will resume from the last saved checkpoint
 
-## Citation
-
-If you use ReSQL in your research, please cite:
-
-```bibtex
-@inproceedings{resql2025,
-    title={ReSQL: Self-Improving Text-to-SQL Generation via Retrieval-augmented Error Reasoning},
-    author={[Your Name]},
-    booktitle={Proceedings of the 2025 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2025)},
-    year={2025}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -312,4 +298,4 @@ For questions or issues, please:
 
 ---
 
-**Note**: This repository is associated with our LREC-COLING 2025 submission. Pre-generated datasets are ready for immediate use in your Text-to-SQL research.
+**Note**: This repository is associated with our LREC 2026 submission. Pre-generated datasets are ready for immediate use in your Text-to-SQL research.
