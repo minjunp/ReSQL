@@ -1,9 +1,9 @@
-# ReSQL: Self-Improving Text-to-SQL Generation via Retrieval-augmented Error Reasoning
+# ReSQL: Self-Improving Framework for Reasoning-Aware Text-to-SQL Dataset Generation
 
 [![Dataset](https://img.shields.io/badge/Dataset-Available-green)](#datasets)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Official implementation of **ReSQL: Self-Improving Text-to-SQL Generation via Retrieval-augmented Error Reasoning**, submitted to LREC 2026.
+Official implementation of **ReSQL: Self-Improving Framework for Reasoning-Aware Text-to-SQL Dataset Generation**, submitted to ACL 2026.
 
 ## Overview
 
